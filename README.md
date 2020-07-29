@@ -1,2 +1,2 @@
 # Figurebed
-XXX图床
+
